@@ -51,3 +51,7 @@ fp-info-cache
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+
+.idea/
+cmake-build-debug/
+cmake-build-*/
